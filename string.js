@@ -7,10 +7,10 @@
 
 // console.log(anthem)
 
-const countryName = "Bangladesh";
+// const countryName = "Bangladesh";
 
 // const anthem="amar sonar" +countryName+ "ami tomar valobasi";
 
-const anthem=`Amar Sonar ${countryName} ami tomai valobasi`
+// const anthem=`Amar Sonar ${countryName} ami tomai valobasi`
 
-console.log(anthem)
+// console.log(anthem)

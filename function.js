@@ -4,4 +4,4 @@ console.log(result);
 }
 
 
-sum(10)
+// sum(10)
